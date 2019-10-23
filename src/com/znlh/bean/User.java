@@ -26,5 +26,6 @@ public class User {
         System.out.println("33333333");
         System.out.println("clone");
         System.out.println("not clone");
+        System.out.println("666666666666");
     }
 }
